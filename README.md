@@ -1,10 +1,18 @@
-# pharmacy_data_analysis
-This is a repository that hosts the report for the Fall 2022 Erdos institute project. 
+# How much will your prescription drugs cost? 
+# Predicting copayments with machine learning
+
+This is a repository that hosts the excutive summary and code for the Fall 2022 Erdos Institute Bootcamp project. 
 
 ## Dataset description 
-Pharmacy claims
-*
-*
+Simulated pharmacy claims provided by [CoverMyMed](https://www.covermymeds.com/main/)
+* Transaction date
+* Pharmacy
+* Medical diagnosis
+* Drug
+* Insurance plan
+* Trsaction status (approved/rejected)
+* Co-payment cost
+
 
 ## Technical Overview 
 
