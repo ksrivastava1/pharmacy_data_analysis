@@ -18,8 +18,15 @@ The dataset is composed of simulated transactions (n = 13910244) from different 
 * 'patient_pay': the amount of copayment for which the patient is responsible
 
 ## Technical Overview 
+Explortatory data analysis and Pre-processing
+Feature Engineering
+Regressor testing
+Evaluation (RMSE and RMLSE)
+
 
 ## Requirements 
+The Jupyter Notebook is written in Python (3.x. version required).
+
 The main packages include the following: numpy, pandas, matplotlib, seaborn, scikit-learn, GridSearchCV, DecisionTreeRegressor, RandomForestRegressor, AdaBoostRegressor, GradientBoostingRegressor, PolynomialFeatures, and LinearRegression
 
 ## Results
@@ -32,4 +39,5 @@ Karan Srivastava: ksrivastava4@wisc.edu
 Christine Sun: christine.l.sun@gmail.com
 
 Funing Tian: fning.tian@gmail.com
+
 
