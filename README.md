@@ -34,6 +34,11 @@ The main packages include the following: numpy, pandas, matplotlib, seaborn, sci
 
 ## Results
 
+![Snip20221209_31](https://user-images.githubusercontent.com/102982243/206827057-252c7e6f-3fc1-4e90-aa8b-4300ed4cd15b.png)
+
+![Snip20221209_32](https://user-images.githubusercontent.com/102982243/206827062-253fb846-9aa1-4bf3-abe8-65c4f5fdfdc4.png)
+
+
 ## Contact
 Will Hardt: hardtwill@gmail.com
 
