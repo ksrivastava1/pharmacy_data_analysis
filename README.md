@@ -1,6 +1,6 @@
 # How much will your prescription drugs cost? - Predicting copayments with machine learning
 
-This is a repository that hosts the excutive summary and code for the Fall 2022 Erdos Institute Bootcamp project. 
+This is a repository that hosts the executive summary and code for the Fall 2022 Erdos Institute Bootcamp project. 
 
 ## Project Description
 When a patient is prescribed medication from healthcare providers, their net copayment at the end of the transaction is determined by a complex system involving specific drug treatments, insurance, and other pharmaceutical factors. Currently, patients and doctors do not have a method of checking expected costs before prescribing medication. Machine learning presents considerable opportunities to improve patient-facing drug recommendations. In this project, we survey many regressors for predicting copayment costs based on patient insurance plans, available pharmacies, and the nature of possible medication details. With this, we hope to build the foundations for future systems that will inform doctors and patients about potential costs of medication before prescription to help patients work with doctors to find affordable treatment for their condition(s)medication. Details are documented in [ADD LINK TO THE EXECUTIVE SUMMARY]
