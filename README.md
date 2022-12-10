@@ -27,7 +27,7 @@ The main packages include the following: numpy, pandas, matplotlib, seaborn, sci
 ## Contact
 Will Hardt: hardtwill@gmail.com
 
-Karan Srivastava: linkedin.com/in/ksrivastava1/
+Karan Srivastava: ksrivastava4@wisc.edu
 
 Christine Sun: christine.l.sun@gmail.com
 
