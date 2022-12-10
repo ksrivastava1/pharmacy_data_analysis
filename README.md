@@ -34,7 +34,8 @@ The main packages include the following: numpy, pandas, matplotlib, seaborn, sci
 
 ## Results
 
-![Snip20221209_31](https://user-images.githubusercontent.com/102982243/206827057-252c7e6f-3fc1-4e90-aa8b-4300ed4cd15b.png)
+![Snip20221209_33](https://user-images.githubusercontent.com/102982243/206827258-a2c8a20d-fd56-4d86-965b-c6f4d12ea7f5.png)
+
 
 Random Forest Errors:
 
